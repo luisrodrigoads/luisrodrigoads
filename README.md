@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luis Rodrigo
 
-- 🔭 Hoje trabalho com desenvolvimento Web FrontEnd
-- 🌱 Estudando React
+- 🔭 Hoje trabalho com desenvolvimento BackEnd
+- 🌱 Estudando Typescript
 - 📫 Email: luisrodrigo.ads@gmail.com
 
  <div>
